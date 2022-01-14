@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BookListApp</string>
+    <string name="app_scheme">booklist.app</string>
+    <string name="app_host">bookId</string>
+</resources>
